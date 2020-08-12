@@ -133,7 +133,7 @@ body {
 .wrg {
 	background: url('../rsc/logo.png');
 	background-repeat: no-repeat;
-  	background-size: 231px 44px;
+  	background-size: 231px auto;
 }
 
 .btn,
